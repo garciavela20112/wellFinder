@@ -11,3 +11,14 @@ We came up with an application that shows the locations of suggested wells, deta
 
 1. More data would be needed to assess more accurately well location. Surveys by experts and further analysis to determine appropriate locations of wells would be beneficial as well.
 2. Expanding WellFinder for a campaign for other causes forest conservation, food shelters, and clothes services. 
+
+## Images of App implementation: 
+
+![WellFinder 2](https://user-images.githubusercontent.com/52566323/152673417-62bb4f8e-c97e-429b-af24-![WellPage](https://user-images.githubusercontent.com/52566323/152673419-402b0614-b677-475a-b557-020408a78c1a.jpg)
+0ff099adf626.jpg)![WellFinder](https://user-images.githubusercontent.com/52566323/152673422-9fdd058f-3441-4d3d-ac5c-b91969fc7f39.jpg)
+![Request Water](https://user-images.githubusercontent.com/52566323/152673423-fa0b5829-709e-4d7f-80f9-27c4dc408d9a.jpg)
+
+
+https://user-images.githubusercontent.com/52566323/152673424-c4123f58-86b4-45dc-9565-12f8486bb8c5.mp4
+
+
